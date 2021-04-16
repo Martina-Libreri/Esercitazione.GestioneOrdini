@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qrStj+LhN0GZDaSVUXX4rhJ4quxsibUIwyU4r/dJIX+GH/LhXkXt7zywYm19tNJoQWXT7+iAJLrEGikAO3gNBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\martina.libreri\\Desktop\\Corso ICubed\\2° Corso\\Week 4\\Esercitazione4\\Esercitazione.GestioneOrdini\\Esercitazione4.GestioneOrdini.Client\\Esercitazione4.GestioneOrdini.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\martina.libreri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

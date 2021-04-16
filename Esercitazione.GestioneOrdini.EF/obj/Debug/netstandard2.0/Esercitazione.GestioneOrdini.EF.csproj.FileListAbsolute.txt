@@ -1,0 +1,24 @@
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\bin\Debug\netstandard2.0\Esercitazione.GestioneOrdini.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.csprojAssemblyReference.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.AssemblyInfoInputs.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.AssemblyInfo.cs
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\bin\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.deps.json
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\bin\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\bin\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\bin\Debug\netstandard2.0\Esercitazione.GestioneOrdini.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.csproj.CoreCompileInputs.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.csproj.CopyComplete
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\bin\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.deps.json
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\bin\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\bin\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\bin\Debug\netstandard2.0\Esercitazione.GestioneOrdini.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\bin\Debug\netstandard2.0\Esercitazione.GestioneOrdini.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.csprojAssemblyReference.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.AssemblyInfoInputs.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.AssemblyInfo.cs
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.csproj.CoreCompileInputs.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.csproj.CopyComplete
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.EF\obj\Debug\netstandard2.0\Esercitazione.GestioneOrdini.EF.pdb

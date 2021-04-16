@@ -1,0 +1,184 @@
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.WCF.dll.config
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.WCF.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.WCF.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.EF.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.EF.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\obj\Debug\Esercitazione.GestioneOrdini.WCF.csprojAssemblyReference.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\obj\Debug\Esercitazione.GestioneOrdini.WCF.csproj.CoreCompileInputs.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\obj\Debug\Esercitazione.GestioneOrdini.WCF.csproj.CopyComplete
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\obj\Debug\Esercitazione.GestioneOrdini.WCF.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\obj\Debug\Esercitazione.GestioneOrdini.WCF.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Buffers.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Collections.Immutable.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Memory.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Buffers.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Collections.Immutable.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Memory.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.WCF.dll.config
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.WCF.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.WCF.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.EF.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Buffers.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Collections.Immutable.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Memory.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.EF.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Esercitazione.GestioneOrdini.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Buffers.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Collections.Immutable.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Memory.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\obj\Debug\Esercitazione.GestioneOrdini.WCF.csprojAssemblyReference.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\obj\Debug\Esercitazione.GestioneOrdini.WCF.csproj.CoreCompileInputs.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\obj\Debug\Esercitazione.GestioneOrdini.WCF.csproj.CopyComplete
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\obj\Debug\Esercitazione.GestioneOrdini.WCF.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week 4\Esercitazione4\Esercitazione.GestioneOrdini\Esercitazione.GestioneOrdini.WCF\obj\Debug\Esercitazione.GestioneOrdini.WCF.pdb
